@@ -1,0 +1,5 @@
+https://github.com/devops0014/staticsite-docker
+https://github.com/devops0014/digital_marketing
+http://52.66.245.37:8083/
+https://github.com/devops0014/job_portal
+https://github.com/devops0014/cleansite
